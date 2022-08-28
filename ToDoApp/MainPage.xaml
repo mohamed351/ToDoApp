@@ -19,7 +19,8 @@
                 Text="Hello, World!"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center"
+                TextColor="#eee"/>
 
             <Label
                 Text="Welcome to .NET Multi-platform App UI"
